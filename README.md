@@ -53,4 +53,4 @@ Collection of academic Theses, important Projects and Presentations that i have 
 [Twitter](https://twitter.com/0rc_studio)  
 [Youtube](https://www.youtube.com/channel/UCmyvutGWtyBRva_jrZfyORA)  
 
-E-mail: com.production.rc@gmail.com
+E-mail: singh.rohan.edu.du@gmail.com
