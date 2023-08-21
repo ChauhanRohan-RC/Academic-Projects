@@ -3,7 +3,7 @@
 Collection of academic Theses, important Projects and Presentations that i have made and delivered during my undergraduate (B.Sc. Hons Chemistry) and postgraduate study (M.Sc. Physical Chemistry) in **University of Delhi**, 2018 - 2023
 
 ## 1. M.Sc Thesis
-* **Thesis**: "Various forms of Adenylate Kinase isoenzymes and their role in cellular energy homeostasis"
+* **Thesis**: "The various isoenzymes of Adenylate Kinase and their role in cellular energy homeostasis"
 * Manuscript : [PDF Document](1.%20M.Sc%20Thesis%20-%20Adenylate%20Kinase%20Isoenzymes/Article%20-%20Adenylate%20Kinase%20Isoenzymes%20and%20Cellular%20Energy%20Homeostasis.pdf)
 * Presentation : [PowerPoint Presentation](1.%20M.Sc%20Thesis%20-%20Adenylate%20Kinase%20Isoenzymes/Presentation-%20Adenylate%20Kinase%20Isoenzymes%20and%20Cellular%20Energy%20Homeostasis.pptx), [Printed PDF](1.%20M.Sc%20Thesis%20-%20Adenylate%20Kinase%20Isoenzymes/Presentation%20Print%20-%20Adenylate%20Kinase%20Isoenzymes%20and%20Cellular%20Energy%20Homeostasis.pdf)
 
@@ -41,7 +41,7 @@ Collection of academic Theses, important Projects and Presentations that i have 
 ## 7. EVS: Solid Waste Management
 * **Title**: "Solid Waste Management in India: Problem, Consequences and Solution"
 * Report : [Word Document](7.%20EVS%20-%20Solid%20Waste%20Management/Report%20-%20Solid%20Waste%20Management.docx), [PDF Document](7.%20EVS%20-%20Solid%20Waste%20Management/Report%20Print%20-%20Solid%20Waste%20Management.pdf)
-* Video Presentation : [Video File](7.%20EVS%20-%20Solid%20Waste%20Management/Video%20Presentation-%20Solid%20Waste%20Management.mp4)
+* Video Presentation : [YouTube](https://youtu.be/61rUNxWdQUU), [Video File](7.%20EVS%20-%20Solid%20Waste%20Management/Video%20Presentation-%20Solid%20Waste%20Management.mp4)
 
 <p align="center">
     <img src="7. EVS - Solid Waste Management/Stats.png" width="700" />
